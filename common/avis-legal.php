@@ -1,0 +1,81 @@
+<div class="modal fade" id="modalAvisLegal" tabindex="-1" role="dialog" aria-labelledby="gridSystemModalLabel">
+  <div class="modal-dialog" role="document">
+	<div class="modal-content">
+	  <div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		<h4 class="modal-title" id="gridSystemModalLabel">Av&iacute;s legal</h4>
+	  </div>
+	  <div class="modal-body">
+		El CENTRE DE LECTURA DE REUS, proveïda de CIF G43014604, actua com a titular, dinamitzador i gestor de continguts de la present Web. El CENTRE DE LECTURA DE REUS informa als Usuaris que compleix amb la vigent normativa de protecció de dades, i amb caràcter especial, amb el Reglament (UE) 2016/679 del Parlament Europeu i del Consell de 27 d'abril de 2016 relatiu a la protecció de les persones físiques pel que fa al tractament de dades personals i a la lliure circulació d'aquestes dades i pel qual es deroga la Directiva 95/46/CE (Reglament general de protecció de dades) i amb la Llei de la Societat de Serveis de la Informació i Comerç Electrònic, Llei 34/2002, d'11 de juliol.<br>
+		<table width="100%">
+		<tbody>
+		<tr>
+		<td width="69%"><strong>Raó Social o nom de l’empresa</strong></td>
+		<td width="30%"><strong>CIF</strong></td>
+		</tr>
+		<tr>
+		<td width="69%">CENTRE DE LECTURA DE REUS</td>
+		<td width="30%">G43014604</td>
+		</tr>
+		<tr>
+		<td colspan="2" width="100%"><strong>Direcció:</strong></td>
+		</tr>
+		<tr>
+		<td colspan="2" width="100%">MAJOR, 15</td>
+		</tr>
+		<tr>
+		<td width="69%"><strong>Població:</strong></td>
+		<td width="30%"><strong>Codi Postal:</strong></td>
+		</tr>
+		<tr>
+		<td width="69%">REUS</td>
+		<td width="30%">43201</td>
+		</tr>
+		</tbody>
+		</table>
+		<strong> </strong>
+		<br><strong>CONCEPTE D'USUARI</strong>
+		<br>La utilització de la Web atribueix la condició d'Usuari, i implica l'acceptació plena i sense reserves de totes i cadascuna de les disposicions incloses en aquest Avís Legal i en les Polítiques de Privadesa en la versió publicada pel CENTRE DE LECTURA DE REUS. al mateix moment en què l'Usuari accedeixi a la web. En conseqüència, l'Usuari ha de llegir atentament el present Avís Legal i les Polítiques de Privadesa en cadascuna de les ocasions en què es proposi utilitzar la Web, ja que pot tenir modificacions.
+		<br><br><strong>INFORMACIÓ SOBRE ELS LINKS</strong>
+		<br>El CENTRE DE LECTURA DE REUS no es fa responsable de les webs no pròpies a les quals es pot accedir mitjançant vincles "links" o de qualsevol contingut posat a disposició per tercers.
+		<br>Qualsevol ús d'un vincle o accés a una web no pròpia és realitzat per voluntat i risc exclusiu de l'usuari i el CENTRE DE LECTURA DE REUS no recomana ni garanteix cap informació obtinguda a través d'un vincle aliè a la web del CENTRE DE LECTURA DE REUS ni es responsabilitza de cap pèrdua, reclamació o perjudici derivada de l'ús o mal ús d'un vincle, o de la informació obtinguda a través d'ell, incloent altres vincles o webs, de la interrupció en el servei o en l'accés, o de l'intent d'usar o usar malament un vincle, tant en connectar-se a la Web del CENTRE DE LECTURA DE REUS com en accedir a la informació d'altres webs des de la Web del CENTRE DE LECTURA DE REUS vincles o enllaços des d’altres webs externes.
+		<br>Es prohibeix expressament establir el vincle bd.centrelectura.cat des de pàgines que continguin manifestacions o propaganda de caràcter racista, xenòfob, pornogràfic, d'apologia del terrorisme, en contra dels Drets Humans o qualsevol un altre de caràcter il·lícit o contrari a la moral i a l'ordre públic. En cap cas es podrà donar a entendre, ni declarar que, el CENTRE DE LECTURA DE REUS, intervé, avala, promociona, participa o ha supervisat en forma alguna els continguts de la pàgina on figuri l'enllaç, ni tan sols que consenti la seva incursió, excepte autorització expressa.
+		<strong> </strong>
+		<br><br><strong>POLITICA DE PRIVACITAT</strong>
+		<br>El CENTRE DE LECTURA DE REUS, proveïda de CIF G43014604, actua com a titular, dinamitzador i gestor de continguts de la present Web. El CENTRE DE LECTURA DE REUS informa als Usuaris que compleix amb la vigent normativa de protecció de dades, i amb caràcter especial, amb el Reglament (UE) 2016/679 del Parlament Europeu i del Consell de 27 d'abril de 2016 relatiu a la protecció de les persones físiques pel que fa al tractament de dades personals i a la lliure circulació d'aquestes dades i pel qual es deroga la Directiva 95/46/CE (Reglament general de protecció de dades) i amb la Llei de la Societat de Serveis de la Informació i Comerç Electrònic, Llei 34/2002, d'11 de juliol.
+		<br>En virtut d'aquesta normativa s'informa que les dades facilitades per l'Usuari a través dels formularis de la web, seran incorporats i tractats en un tractament degudament registrat en el RGAEPD del que és responsable el CENTRE DE LECTURA DE REUS, amb la finalitat d'atendre la relació establerta entre les parts i emparada per la normativa especialment en matèria de Protecció de Dades de Caràcter Personal i altra legislació connexa. Les dades són confidencials i el seu ús respon a les finalitats legalment establertes a cada moment determinat. Si ho desitja pot accedir, rectificar, cancel·lar i oposar-se al tractament d'aquestes dades mitjançant escrit dirigit al carrer Major, 15  43201 REUS (Tarragona). Per obtenir més informació sobre la nostra Política de Privadesa, per favor dirigeixi's al “link” Política de Privacitat habilitat a aquest mateixa pàgina web.
+		<strong> </strong>
+		<br><br><strong>INFORMACIÓ SOBRE LA UTILITZACIÓ DE COOKIES</strong>
+		<br>En aquesta Web es poden anar utilitzant cookies en algunes pàgines. La finalitat d'aquestes cookies és millorar el servei que ofereixen als seus clients i als nostres visitants. Si desitja saber més sobre l'ús de les cookies per part del CENTRE DE LECTURA DE REUS.
+		<br><br><strong>RENUNCIA I LIMITACIÓ DE LA RESPONSABILITAT</strong>
+		<br>El CENTRE DE LECTURA DE REUS informa que a tot moment implementa les mesures de seguretat oportunes a fi de presentar als usuaris de la web informacions i serveis adequats, certs i actualitzats; no obstant això, es reserva el dret de rectificació sobre aquells aspectes que, eventualment i de forma fortuïta, puguin sofrir incorreccions, desactualizaciones o errors.
+		<br>El CENTRE DE LECTURA DE REUS ha obtingut la informació i els materials inclosos a la web de fonts considerades com a fiables, però si bé s'han pres les mesures corresponents per assegurar que la informació continguda sigui correcta, no garanteix que sigui exacta o actualitzada.
+		<br>També s'adverteix que els continguts d'aquesta Web, tenen dues finalitats, una finalitat informativa quant a la qualitat, situació, serveis i tarifes i una altra de venda de serveis, segons el previst en el present avís legal i la resta de textos legals de la present web.
+		<br><br><strong>INDICACIONS SOBRE ASPECTES TÈCNICS</strong>
+		<br>El CENTRE DE LECTURA DE REUS declina qualsevol responsabilitat en cas que existeixin interrupcions o un mal funcionament dels serveis o continguts oferts en Internet, qualsevol que sigui la seva causa. Així mateix, el CENTRE DE LECTURA DE REUS no es fa responsable per caigudes de la xarxa, pèrdues d'informació com a conseqüència d'aquestes caigudes, suspensions temporals del fluid elèctric o qualsevol altre tipus de dany indirecte que li pugui ser causat als Usuaris per causes alienes al CENTRE DE LECTURA DE REUS
+		<br>El CENTRE DE LECTURA DE REUS no declara ni garanteix que els serveis o continguts siguin ininterromputs o que estiguin lliures d'errors, que els defectes siguin corregits, o que el servei o el servidor que ho posa a disposició estiguin lliures de virus o altres components nocius, sense perjudici que el CENTRE DE LECTURA DE REUS realitza els seus millors esforços a evitar aquest tipus d'incidents. En cas que l'Usuari prengués determinades decisions o realitzés accions amb base a la informació inclosa en qualsevol dels websites, es recomana la comprovació de la informació rebuda amb altres fonts.
+		<br><br><strong>PROPIETAT INDUSTRIAL I INTEL·LECTUAL</strong>
+		<br>Els continguts prestats pel CENTRE DE LECTURA DE REUS així com els continguts abocats a la xarxa a través de les seves pàgines web, constitueixen una obra en el sentit de la legislació sobre propietat intel·lectual pel que es troben protegits per les lleis i convenis internacionals aplicables en la matèria.
+		<br>Queda prohibida qualsevol forma de reproducció, distribució, comunicació pública, transformació, posada a disposició i, en general, qualsevol altre acte d'explotació pública referit tant a les pàgines Web com als seus continguts i informació, sense l'exprés i previ consentiment i per escrit del CENTRE DE LECTURA DE REUS.
+		<br>En conseqüència, tots els continguts que es mostren en els diferents websites i especialment, dissenys, textos, gràfics, logotips, icones, botons, programari, noms comercials, marques, dibuixos industrials o qualssevol altres signes susceptibles d'utilització industrial i comercial estan subjectes a drets de propietat intel·lectual i industrial del CENTRE DE LECTURA DE REUS o de tercers titulars dels mateixos que han autoritzat degudament la seva inclusió en els diferents websites.
+		<br>Els continguts, imatges, formes, opinions, índexs i altres expressions formals que formin part de les pàgines Web, així com el programari necessari per al funcionament i visualització de les mateixes, constitueixen així mateix una obra en el sentit del Dret d'Autor i queden, per tant, protegides per les convencions internacionals i legislacions nacionals en matèria de Propietat intel·lectual que resultin aplicables. L'incompliment de l'assenyalat implica la comissió de greus actes il·lícits i la seva sanció per la legislació civil i penal.
+		<br>Queda prohibit tot acte per virtut del com els Usuaris dels serveis o continguts puguin explotar o servir-se comercialment, directa o indirectament, íntegrament o parcialment, de qualsevol dels continguts, imatges, formes, índexs i altres expressions formals que formin part de les pàgines Web sense permís previ i per escrit del CENTRE DE LECTURA DE REUS
+		<br>En concret, i sense caràcter exhaustiu, queden prohibits els actes de reproducció, distribució, exhibició, transmissió, retransmissió, emissió en qualsevol forma, emmagatzematge en suports físics o lògics (per exemple, disquets o disc dur d'ordinadors), digitalització o posada a disposició des de bases de dades diferents de les pertanyents a les autoritzades pel CENTRE DE LECTURA DE REUS així com la seva traducció, adaptació, arranjament o qualsevol altra transformació d'aquestes opinions, imatges, formes, índexs i altres expressions formals que es posin a la disposició dels Usuaris a través dels serveis o continguts, en tant tals actes estiguin sotmesos a la legislació aplicable en matèria de Propietat intel·lectual, industrial o de protecció de la imatge.
+		<br>El CENTRE DE LECTURA DE REUS és lliure de limitar l'accés a les pàgines Web, i als productes i/o serveis en ella oferts, així com la consegüent publicació de les opinions, observacions, imatges o comentaris que els Usuaris puguin fer-li arribar a través del correu electrònic.
+		<br>El CENTRE DE LECTURA DE REUS en aquest sentit, podrà establir, si ho considera oportú, sense perjudici de l'única i exclusiva responsabilitat dels Usuaris, els filtres necessaris a fi d'evitar que a través de les seves pàgines Web puguin abocar-se a la xarxa continguts o opinions, considerats com a racistes, xenòfobs, discriminatoris, pornogràfics, difamatoris o que, de qualsevol manera, fomentin la violència o la disseminació de continguts clarament il·lícits o nocius.
+		<br>Aquells Usuaris que enviïn a la pàgina Web del CENTRE DE LECTURA DE REUS al seu departament de suggeriments, observacions, opinions o comentaris per mitjà del servei de correu electrònic, tret que expressin de manera certa i inconfusible el contrari, en els casos en els quals per la naturalesa dels serveis o continguts això sigui possible, s'entén que autoritzen al CENTRE DE LECTURA DE REUS per a la reproducció, distribució, exhibició, transmissió, retransmissió, emissió en qualsevol format, emmagatzematge en suports físics o lògics (per exemple, disquets o disc dur d'ordinadors), digitalització, posada a disposició des de bases de dades pertanyents al CENTRE DE LECTURA DE REUS traducció, adaptació, arranjament o qualsevol altra transformació de tals observacions, opinions o comentaris, per tot el temps de protecció de dret d'autor que estigui previst legalment.
+		<br>Així mateix, s'entén que aquesta autorització es fa a títol gratuït, i que pel sol fet d'enviar per correu electrònic tals observacions, opinions o comentaris, els Usuaris declinen qualsevol pretensió remuneratoria per part del CENTRE DE LECTURA DE REUS
+		<br>D'acord amb l'assenyalat en el paràgraf anterior, el CENTRE DE LECTURA DE REUS queda autoritzada igualment per procedir a la modificació o alteració de tals observacions, opinions o comentaris, a fi d'adaptar-los a les necessitats de format editorial de les pàgines Web, sense que per això pugui entendre's que existeix en absolut qualsevol tipus de lesió de qualssevol de les facultats morals de dret d'autor que els Usuaris poguessin ostentar sobre aquelles.
+		<br>Queden prohibits qualssevol dels recursos tècnics, lògics o tecnològics per virtut dels quals un tercer pugui beneficiar-se, directa o indirectament, amb o sense lucre, de tots i cadascun dels continguts, formes, índexs i altres expressions formals que formin part de les pàgines Web, o de l'esforç dut a terme pel CENTRE DE LECTURA DE REUS per al seu funcionament.
+		<br>En concret, queda prohibit tot link, hyperlink, framing o vincle similar que pugui establir-se en direcció a les pàgines Web del CENTRE DE LECTURA DE REUS sense el consentiment previ, exprés i per escrit del client. Qualsevol trasgresión del que es disposa en aquest punt serà considerada com a lesió dels legítims drets de Propietat intel·lectual del CENTRE DE LECTURA DE REUS sobre les pàgines Web i tots els continguts de les mateixes.
+		<br>El CENTRE DE LECTURA DE REUS no assumirà responsabilitat alguna davant conseqüències derivades de les conductes i actuacions abans citades, de la mateixa manera que no assumirà responsabilitat alguna pels continguts, serveis, productes, etc., de tercers als quals es pugui accedir directament o a través de bàners, enllaços, links, hyperlinks, framing o vincles similars des del website dle CENTRE DE LECTURA DE REUS
+		<br>Queden prohibits qualssevol dels recursos tècnics, lògics o tecnològics per virtut dels quals un tercer pugui beneficiar-se, directa o indirectament, amb o sense lucre, de tots i cadascun dels continguts, formes, índexs i altres expressions formals que formin part de les pàgines Web, o de l'esforç dut a terme pel CENTRE DE LECTURA DE REUS per al seu funcionament.
+		<br>En concret, queda prohibit tot link, hyperlink, framing o vincle similar que pugui establir-se en direcció a les pàgines Web del CENTRE DE LECTURA DE REUS sense el consentiment previ, exprés i per escrit del CENTRE DE LECTURA DE REUS. Qualsevol transgresió del que es disposa en aquest punt serà considerada com a lesió dels legítims drets de Propietat intel·lectual del CENTRE DE LECTURA DE REUS sobre la pàgina Web i tots els continguts de la mateixa.
+		<br>El CENTRE DE LECTURA DE REUS no assumirà responsabilitat alguna davant conseqüències derivades de les conductes i actuacions abans citades, de la mateixa manera que no assumirà responsabilitat alguna pels continguts, serveis, productes, etc., de tercers als quals es pugui accedir directament o a través de bàners, enllaços, links, hyperlinks, framing o vincles similars des del website del CENTRE DE LECTURA DE REUS.
+	  </div>
+	  <div class="modal-footer">
+		<button type="button" class="btn btn-default" data-dismiss="modal">Tancar</button>
+	  </div>
+	</div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
