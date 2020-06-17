@@ -1,6 +1,6 @@
 # BDCdL2020
 The BDCdL2020 is an [Omeka Classic](https://omeka.org/classic/) theme designed by Centre de Lectura to share 
-its digital collections.
+their digital collections.
 
 [https://bd.centrelectura.cat](https://bd.centrelectura.cat)
 
