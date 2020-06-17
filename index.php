@@ -164,7 +164,7 @@ echo head(array('description' => $description, 'author' => $author, 'page' => 'h
                     <hr class="border-light">
                 </div>
             </div>
-            <p>Biblioteca Digital del Centre de Lectura - Any 2020 | <a href="#modalAvisLegal" style="color: white;" data-toggle="modal" title="Av&iacute;s legal">Av&iacute;s legal</a> | <a href="#modalPoliticaPrivacitat" style="color: white;" data-toggle="modal" title="Pol&iacute;tica de privacitat">Pol&iacute;tica de privacitat</a> | <a href="https://github.com/egonzalez-cdl/bdcdl2020" target="_blank" style="color: white;" data-toggle="modal" title="BDCdL2020">BDCdL2020 - Plantilla dissenyada al Centre de Lectura</a></p>
+            <p>Biblioteca Digital del Centre de Lectura - Any 2020 | <a href="#modalAvisLegal" style="color: white;" data-toggle="modal" title="Av&iacute;s legal">Av&iacute;s legal</a> | <a href="#modalPoliticaPrivacitat" style="color: white;" data-toggle="modal" title="Pol&iacute;tica de privacitat">Pol&iacute;tica de privacitat</a> | <a href="https://github.com/egonzalez-cdl/bdcdl2020" target="_blank" style="color: white;" title="BDCdL2020">BDCdL2020 - Plantilla dissenyada al Centre de Lectura</a></p>
             <p>&copy; El Centre de Lectura és propietari únic del contingut d'aquest lloc web.</p>
         </div>
     </section>
